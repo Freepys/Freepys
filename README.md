@@ -1,23 +1,43 @@
-# Freeperr
+<div align="center">
 
-Developer focused on Minecraft server development, automation tools, and APIs.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Freeperr;Minecraft+Developer;Paper+Plugins+%7C+Fabric+Mods+%7C+Automation" alt="Typing SVG" />
 
-Portfolio  
+</div>
+
+---
+
+## About Me
+
+I'm **Freeperr**, a developer focused on Minecraft server development, automation tools, and APIs.
+
+I mainly build:
+
+- Paper / Spigot plugins
+- Fabric mods
+- Discord bots
+- Python APIs and utilities
+
+Portfolio:  
 https://freepys.github.io/Portfolio/
 
 ---
 
-## About
+## Tech Stack
 
-Freeperr is a developer building tools and systems for Minecraft communities.  
-The focus is on stable plugins, lightweight mods, and automation tools that integrate with modern server infrastructures.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,git,gradle,github,vscode,discord" />
+</p>
 
-Primary areas of work include:
+Main technologies:
 
-- Paper / Spigot plugin development
-- Fabric mod development
-- Discord automation systems
-- Python APIs and utilities
+- Java
+- Kotlin
+- Python
+- Paper API
+- Fabric API
+- Discord.js
+- Gradle
+- Git
 
 ---
 
@@ -25,49 +45,51 @@ Primary areas of work include:
 
 ### CommandBlockerPlus
 
-CommandBlockerPlus is a Paper plugin designed to control and secure command usage on Minecraft servers.
+A Paper plugin designed to secure and control command usage on Minecraft servers.
 
-Key features:
+Features:
 
-- Highly configurable command blocking
-- Safe default configurations
-- Secure staff command management
-- Performance-focused architecture
-- Clean documentation and configuration
-
-Technologies used:
-
-- Java
-- Paper API
+- Configurable command blocking
+- Secure staff management
+- Performance-focused structure
+- Clean configuration and documentation
 
 ---
 
-## Services
+## GitHub Stats
 
-### Custom Minecraft Plugins
-Custom mechanics, moderation systems, and performance-optimized features for Paper / Spigot servers.
+<div align="center">
 
-### Fabric Mods
-Client-side or server-side modifications for modern Minecraft versions.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Freepys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freepys&layout=compact&theme=tokyonight&hide_border=true" />
 
-### Discord Systems
-Moderation tools, ticket systems, and automation integrations.
+</div>
 
-### API Utilities
-Python scripts and APIs connecting Minecraft servers with external services.
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=Freepys&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## Tech Stack
+## Activity
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper%20API-Minecraft-blue?style=for-the-badge)
-![Fabric](https://img.shields.io/badge/Fabric%20API-Minecraft-black?style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-Build%20System-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freepys&theme=tokyonight" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Freepys/Freepys/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
