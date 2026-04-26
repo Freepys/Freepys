@@ -18,8 +18,7 @@ I mainly build:
 - Python APIs and utilities
 
 Portfolio:  
-https://freepys.github.io/Portfolio/
-
+https://freeperr.dev/
 ---
 
 ## Tech Stack
